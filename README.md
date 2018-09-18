@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Programación de 1º DAM 2018/2019
+### IES Severo Ochoa, Elche (España)
+ 
+Resúmenes de cada tema (lo que se ve en clase)
+- [Tema 1](https://github.com/migueldavidorrico/DAM1K2019/resumeTema1.md)
+- Tema 2
 
 You can use the [editor on GitHub](https://github.com/migueldavidorrico/DAM1K2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,7 +23,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
+######csdacdas1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
