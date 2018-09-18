@@ -2,7 +2,7 @@
 ### IES Severo Ochoa, Elche (España)
  
 Resúmenes de cada tema (lo que se ve en clase)
-- [Tema 1](https://github.com/migueldavidorrico/DAM1K2019/resumeTema1.md)
+- [Tema 1](https://github.com/migueldavidorrico/DAM1K2019/resumenTema1.md)
 - Tema 2
 
 You can use the [editor on GitHub](https://github.com/migueldavidorrico/DAM1K2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
