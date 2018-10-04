@@ -29,6 +29,5 @@ public class Pez {
     }
 
     public static void main(String[] args) {
-        this.getNumeroPeces();
     }
 }
