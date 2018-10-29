@@ -4,7 +4,7 @@ public class Producto {
     private int precio;
     private final String tipo;
 
-    private static int codigoActual=1;
+    public static int codigoActual=1;
 
     Producto(String descripcion,int precio,String tipo){
         this.codigo=Producto.codigoActual++;
